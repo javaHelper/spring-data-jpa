@@ -1,0 +1,16 @@
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('1', 'Finance', 'Karan', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('2', 'HR', 'Shanti', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('3', 'Advisory', 'Parag', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('4', 'Tax', 'Harshita', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('5', 'Consulting', 'Kunal', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('6', 'Development', 'Harish', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('7', 'Product', 'Ravi', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('8', 'Finance', 'Kumar', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('9', 'Tax', 'Deepak', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('10', 'Advisory', 'Surajeet', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('11', 'Consultig', 'Neha', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('12', 'HR', 'Ashish', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('13', 'HR', 'Babita', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('14', 'Product', 'Laxmi', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('15', 'Finance', 'Aravind', '10000');
+INSERT INTO `test`.`employee` (`id`, `dept`, `name`, `salary`) VALUES ('16', 'HR', 'Divya', '10000');
